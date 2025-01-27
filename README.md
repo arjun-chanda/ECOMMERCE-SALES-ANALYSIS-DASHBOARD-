@@ -21,21 +21,21 @@ The dataset includes the following key fields:
 - **Quantity**: Number of units purchased.
 ---
 ## Questions(KPIs)
-What is the total revenue generated during the analysis period?
-Which products generate the highest revenue?
-What are the monthly and yearly sales trends?
-Which product categories are the most profitable?
-Who are the high-value customers, and what are their purchase patterns?
-What is the average value of each order?
-How often do customers place orders?
-How many units of each product were sold?
-Which products contribute the most to overall revenue?
-Which products or categories have the highest return rates?
-Which regions generate the highest revenue?
-How has revenue grown across regions over time?
-What is the average time to fulfill an order?
-How frequently is inventory being replenished?
-Which regions have the highest return rates?
+-What is the total revenue generated during the analysis period?
+-Which products generate the highest revenue?
+-What are the monthly and yearly sales trends?
+-Which product categories are the most profitable?
+-Who are the high-value customers, and what are their purchase patterns?
+-What is the average value of each order?
+-How often do customers place orders?
+-How many units of each product were sold?
+-Which products contribute the most to overall revenue?
+-Which products or categories have the highest return rates?
+-Which regions generate the highest revenue?
+-How has revenue grown across regions over time?
+-What is the average time to fulfill an order?
+-How frequently is inventory being replenished?
+-Which regions have the highest return rates?
 
 --
 ## Tools and Techniques
@@ -60,7 +60,9 @@ Which regions have the highest return rates?
 3. **Customer Segmentation**:
    - High-value customers and their buying habits.
    - Customer churn rates and retention strategies.
-
+     
+##Dashboard
+"D:\Arjun 5th sem all\arjun documents\Excel Projects\Ecoomerse Sales DashBoard png.png"
 ---
 
 ##Conclusion

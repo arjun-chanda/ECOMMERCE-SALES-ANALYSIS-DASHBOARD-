@@ -1,11 +1,12 @@
 # ECOMMERCE-SALES-ANALYSIS-DASHBOARD-(Interactive Dashboard creation using MS Excel)
-Excel-based E-commerce sales analysis with trends, customer insights, and visualizations for data-driven decisions. 📊
+
 ---
 ## Project Overview
 
 The **E-commerce Sales Analysis** project focuses on extracting, cleaning, and analyzing data to uncover key trends and patterns. The insights generated can be used to improve marketing strategies, inventory management, and overall business performance.
 
 ## Dataset Used
+- <a href="https://github.com/arjun-chanda/ECOMMERCE-SALES-ANALYSIS-DASHBOARD-/blob/main/Ecommerse%20Sales%20Analysis%20Project.xlsx">Dataset</a>
 
 ---
 

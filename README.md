@@ -1,4 +1,4 @@
-# ECOMMERCE-SALES-ANALYSIS-DASHBOARD-(Interactive Dashboard creation using MS Excel)
+# ECOMMERCE-SALES-ANALYSIS-DASHBOARD-(creation using MS Excel)
 
 ---
 ## Project Overview
@@ -8,23 +8,8 @@ The **E-commerce Sales Analysis** project focuses on extracting, cleaning, and a
 ## Dataset Used
 - <a href="https://github.com/arjun-chanda/ECOMMERCE-SALES-ANALYSIS-DASHBOARD-/blob/main/Ecommerse%20Sales%20Analysis%20Project.xlsx">Dataset</a>
 
----
-
-## Objectives
-
-1. **Sales Performance Analysis**:
-   - Identify top-performing products, categories, and regions.
-   - Evaluate monthly and yearly sales trends.
-2. **Customer Behavior Insights**:
-   - Analyze purchase patterns and customer demographics.
-   - Identify high-value customers and their preferences.
-3. **Operational Efficiency**:
-   - Highlight areas for cost optimization.
-   - Assess order fulfillment and return rates.
-
----
-
-## Data Description
+--
+##Dataset Fields
 
 The dataset includes the following key fields:
 
@@ -34,14 +19,26 @@ The dataset includes the following key fields:
 - **Category**: Product category.
 - **Order Date**: Date of the order.
 - **Quantity**: Number of units purchased.
-- **Price**: Price per unit.
-- **Revenue**: Total revenue for the order (calculated as `Quantity * Price`).
-- **Region**: Geographic region of the order.
-
 ---
+## Questions(KPIs)
+What is the total revenue generated during the analysis period?
+Which products generate the highest revenue?
+What are the monthly and yearly sales trends?
+Which product categories are the most profitable?
+Who are the high-value customers, and what are their purchase patterns?
+What is the average value of each order?
+How often do customers place orders?
+How many units of each product were sold?
+Which products contribute the most to overall revenue?
+Which products or categories have the highest return rates?
+Which regions generate the highest revenue?
+How has revenue grown across regions over time?
+What is the average time to fulfill an order?
+How frequently is inventory being replenished?
+Which regions have the highest return rates?
 
+--
 ## Tools and Techniques
-
 - **Microsoft Excel**:
   - Data cleaning and preparation.
   - Pivot tables for summarizing data.
@@ -51,7 +48,6 @@ The dataset includes the following key fields:
   - Trend analysis.
   - Pareto analysis (80/20 rule).
   - Customer segmentation.
-
 ---
 
 ## Key Insights
@@ -67,6 +63,9 @@ The dataset includes the following key fields:
 
 ---
 
-## How to Use
+##Conclusion
+This e-commerce sales analysis provides valuable insights into sales performance, customer behavior, and product trends. By leveraging Excel's powerful tools such as pivot tables, charts, and conditional formatting, the analysis identifies key areas for business improvement, including high-performing products, customer segmentation, and regional performance. These insights can guide data-driven decisions to optimize marketing strategies, inventory management, and overall operational efficiency.
+
+
 
 

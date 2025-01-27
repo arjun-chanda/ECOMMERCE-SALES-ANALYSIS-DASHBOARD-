@@ -1,4 +1,4 @@
-# ECOMMERCE-SALES-ANALYSIS-DASHBOARD-(creation using MS Excel)
+# ECOMMERCE-SALES-ANALYSIS-DASHBOARD PROJECT-(creation using MS Excel)
 
 ---
 ## Project Overview

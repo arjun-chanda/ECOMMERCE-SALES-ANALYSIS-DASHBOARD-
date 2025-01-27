@@ -62,7 +62,9 @@ The dataset includes the following key fields:
    - Customer churn rates and retention strategies.
      
 ##Dashboard
-- <a href="https://github.com/arjun-chanda/ECOMMERCE-SALES-ANALYSIS-DASHBOARD-/blob/main/Ecoomerse%20Sales%20DashBoard%20png.png">DashBoard png </a> 
+- <a href="https://github.com/arjun-chanda/ECOMMERCE-SALES-ANALYSIS-DASHBOARD-/blob/main/Ecoomerse%20Sales%20DashBoard%20png.png">DashBoard png </a>
+- ![Ecoomerse Sales DashBoard png](https://github.com/user-attachments/assets/da08fd8d-34ab-44be-8740-bca09f1c16bc)
+
 ---
 
 ##Conclusion
